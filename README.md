@@ -12,7 +12,7 @@ Description
   VSCode support (recommended extensions and settings)
 
 🚀 Getting Started
-  git clone https://github.com/your-repo.git
+  git clone https://github.com/IldarReact/ViteDefaultSetup
   cd project-name
   npm install
   npm run dev
